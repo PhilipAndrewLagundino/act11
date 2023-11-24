@@ -1,0 +1,57 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}.head
+{
+    background-color: gray;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    color: whitesmoke;
+}
+.nav
+{
+  color: whitesmoke;
+  margin: 5px;
+  font-size: 20px;
+  border: solid 2px black;
+}
+.con
+{
+    text-align: center;
+    font-size: 20px;
+    background-color: grey;
+    border: solid 7px gold;
+    border-bottom: 7px;
+    border-left: 7px;
+    border-right: 7px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(images/CIT.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 300px;
+}
+.bac
+{
+    font-size: 50px;
+    color: aliceblue;
+}
+.flex-con{
+    display: flex;
+    flex-direction: row;
+    background-color: green;
+    border: solid 3px gold;
+    font-size: 20px;
+}
+.item1{
+    border: solid 2px black;
+}
+.item2{
+    border: solid 2px black;
+}
+.item3{
+    border: solid 2px black;
+}
+
